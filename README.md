@@ -1,6 +1,6 @@
 # Campus Event Management System
 
-A robust, non-trivial C++ software application developed following the full Software Development Lifecycle (SDLC). This project was built for the **CSE 3206 - Software Engineering Sessional** to demonstrate architectural design patterns, Test-Driven Development (TDD), and continuous integration.
+A C++ software application developed following the full Software Development Lifecycle (SDLC).
 
 ## Features & Functional Modules
 
