@@ -1,2 +1,1 @@
-# Campus Event Management System
-This project uses TDD and Design Patterns.
+Edited on main branch
